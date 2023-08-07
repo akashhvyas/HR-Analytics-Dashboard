@@ -1,12 +1,12 @@
 # HR-Analytics-Dashboard
 
-### ___**INTRODUCTION**___
+### **INTRODUCTION**
 
-#### **Primary Goal: HR Analytics Dashboard for Employee Retention Improvement**
+#### ___**Primary Goal: HR Analytics Dashboard for Employee Retention Improvement**___
 
 The primary goal of this project is to develop an HR Analytics Dashboard that empowers organizations to enhance their employee retention rate. Through data analysis, visualization, and key performance indicators (KPIs), the dashboard aims to provide actionable insights and strategies to foster a more engaged and satisfied workforce.
 
-#### To accomplish these goals, the project employed various methodologies:
+#### ___To accomplish these goals, the project employed various methodologies:___
 
 - Data Collection: Gathered employee data from Kaggle.
 - Data Cleaning: Ensured data accuracy and consistency using Excel.
@@ -17,7 +17,7 @@ The primary goal of this project is to develop an HR Analytics Dashboard that em
 
 <br />
 
-### ___**PROJECT ROADMAP**___
+### **PROJECT ROADMAP**
 
 The roadmap followed for the project involved a systematic approach to achieve the primary goal of creating an HR Analytics Dashboard for employee retention improvement. Here's an overview of the roadmap:
 
@@ -37,7 +37,7 @@ The roadmap followed for the project involved a systematic approach to achieve t
 
 <br />
 
-### ___**LANGUAGES / TOOLS USED**___
+### **LANGUAGES / TOOLS USED**
 
 #### 1. Microsoft Excel
 ```
