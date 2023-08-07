@@ -68,3 +68,12 @@ The roadmap followed for the project involved a systematic approach to achieve t
 <img src ="https://github.com/akashhvyas/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20-%20Data%20Files/Project1_Powerbi_page-0001.jpg?raw=true"  width="1000" height="500" />
 
 <br />
+
+### **CONCLUSION / FINDINGS**
+```
+1. Laboratory Technicians & Sales Executives exhibit high job dissatisfaction and are leaving their positions in significant numbers.
+2. Employees with educational backgrounds in Life Sciences experience a notable attrition rate.
+3. Attrition peaks occur during the 1st year, 5th year, and 10th year of employment.
+4. Low salaries could be a potential factor contributing to the elevated attrition rate.
+5. The majority of employees leaving the company belong to the younger age group.
+```
